@@ -2,6 +2,8 @@
 
 Website using Rick and Morty APIs. It lists Rick and Morty's characters.
 
+### 👉 [Live Preview](https://morty-smith.netlify.app)
+
 ## Specification
 
 #### System Specification
