@@ -1,0 +1,15 @@
+@import "../../assets/style/colors.scss";
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: $color8 !important;
+  width: 100%;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: $color4;
+  letter-spacing: 3px;
+}

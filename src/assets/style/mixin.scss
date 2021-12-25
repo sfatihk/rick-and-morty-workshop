@@ -1,0 +1,6 @@
+@import "./colors.scss";
+
+@mixin characterCoverFrame {
+  border: solid 2px $color2;
+  box-shadow: 0 6px 6px -6px $color2;
+}

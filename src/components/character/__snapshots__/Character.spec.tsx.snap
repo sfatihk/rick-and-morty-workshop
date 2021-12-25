@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Character components renders correctly 1`] = `
+<div
+  className="character"
+  onClick={[Function]}
+>
+  <img
+    alt=""
+    className="character__thumbnail"
+    src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+  />
+  <div
+    className="character__name"
+  >
+    test
+  </div>
+</div>
+`;
