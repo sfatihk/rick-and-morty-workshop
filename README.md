@@ -29,16 +29,16 @@ Test the project `yarn test`
 
 ## Structure
 
-├────── **assets** : images & styles resources
+├─ **assets** : images & styles resources
 
-├────── **components** : pure components
+├─ **components** : pure components
 
-├────── **containers** : complex components with store access
+├─ **containers** : complex components with store access
 
-├────── **graphql** : grapqhl client configurations & queries
+├─ **graphql** : grapqhl client configurations & queries
 
-├────── **layout** : layout components & template
+├─ **layout** : layout components & template
 
-├────── **screens** : main screens
+├─ **screens** : main screens
 
-├────── **types** : typescript type definition
+├─ **types** : typescript type definition
