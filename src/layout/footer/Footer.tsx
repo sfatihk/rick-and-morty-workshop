@@ -11,7 +11,7 @@ const Footer = () => (
       target="_blank"
       rel="noreferrer"
     >
-      © 2021 sfatihk
+      © 2022 sfatihk
     </a>
   </Layout.Footer>
 );
