@@ -11,7 +11,7 @@ const Footer = () => (
       target="_blank"
       rel="noreferrer"
     >
-      © 2022 sfatihk
+      © {new Date().getFullYear()} sfatihk
     </a>
   </Layout.Footer>
 );
